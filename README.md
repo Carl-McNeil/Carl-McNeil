@@ -1,4 +1,4 @@
-<h1>Greetings, I'm Carl, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Greetings, I'm Carl, an <linkedin.com/in/carl-mcneil-62161932b>IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
